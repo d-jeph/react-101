@@ -1,4 +1,5 @@
-#Seasons App
+# Seasons App
+
 A small react project to determine the season(winter or summer) based on the current month of the year and user's physical location.
 
 **React concepts covered**:
