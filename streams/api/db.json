@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Test Stream",
+      "description": "test stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "New test stream",
+      "id": 2
+    },
+    {
+      "title": "New Fifa 18",
+      "description": "Playing the game",
+      "id": 3
+    },
+    {
+      "title": "Test Two",
+      "description": "testiiiing",
+      "userId": "114850332821057142117",
+      "id": 4
+    }
+  ]
+}
